@@ -1,0 +1,16 @@
+{
+  "Version": "14.0.1",
+  "Name": "iimg.ml",
+  "DestinationType": "ImageUploader, TextUploader, FileUploader",
+  "RequestMethod": "POST",
+  "RequestURL": "https://iimg.ml/",
+  "Headers": {
+    "Authorization": "f4bab23a6f654b5a98c916c0d18ae6be"
+  },
+  "Body": "MultipartFormData",
+  "FileFormName": "file",
+  "URL": "{json:.resource}",
+  "ThumbnailURL": "{json:.thumbnail}",
+  "DeletionURL": "{json:.delete}",
+  "ErrorMessage": "{response}"
+}
