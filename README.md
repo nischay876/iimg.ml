@@ -1,1 +1,1 @@
-# [iimg.ml](https://docs.iimg.ml)
+# [docs.iimg.ml](https://docs.iimg.ml)
