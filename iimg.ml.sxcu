@@ -1,11 +1,19 @@
 {
   "Version": "14.0.1",
-  "Name": "iimg.ml",
   "DestinationType": "ImageUploader, TextUploader, FileUploader",
   "RequestMethod": "POST",
-  "RequestURL": "https://iimg.ml/",
+  "RequestURL": "https://iimg.ml",
   "Headers": {
-    "Authorization": "f4bab23a6f654b5a98c916c0d18ae6be"
+    "Authorization": "anonymous",
+    "X-OG-Title": null,
+    "X-OG-Description": null,
+    "X-Webhook-Url": null,
+    "X-OG-Author": null,
+    "X-OG-Author-Url": null,
+    "X-OG-Provider": null,
+    "X-OG-Provider-Url": null,
+    "X-OG-Color": "#2f3136",
+    "X-Domain": "iimg.ml"
   },
   "Body": "MultipartFormData",
   "FileFormName": "file",
