@@ -1,9 +1,9 @@
 ## [Docs](https://docs.iimg.ml)
-## [customizations](https://docs.iimg.ml/customizations)
+## [Customizations](https://docs.iimg.ml/customizations)
 ## [Custom Domain](https://docs.iimg.ml/custom-domain)
 ## [Features & Limits](https://docs.iimg.ml/features-and-limits)
 ## [About](https://docs.iimg.ml/about)
-### ShareX Config
+### [ShareX Config](https://iimg.ml/dl)
 ```json
 {
   "Version": "14.0.1",
