@@ -1,5 +1,7 @@
-# [docs.iimg.ml](https://docs.iimg.ml)
-# https://docs.iimg.ml/customizations
-# https://docs.iimg.ml/custom-domain
-# https://docs.iimg.ml/features-and-limits
-# https://docs.iimg.ml/about
+# [www.iimg.ml](https://www.iimg.ml)
+## [Download ShareX Config](https://iimg.ml/dl)
+## [Docs](https://docs.iimg.ml)
+## [customizations](https://docs.iimg.ml/customizations)
+## [Custom Domain](https://docs.iimg.ml/custom-domain)
+## [Features & Limits](https://docs.iimg.ml/features-and-limits)
+## [About](https://docs.iimg.ml/about)
